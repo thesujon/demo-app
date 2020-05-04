@@ -11,9 +11,11 @@ function App() {
     <div>
       <Header />
       <Navbar />
-      <div className="row">
-        <Content />
-        <Sidebar />
+      <div className="content">
+      
+      </div>  
+      <div className="side">
+        
       </div>
       <Footer />
     </div>
